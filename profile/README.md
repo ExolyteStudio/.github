@@ -51,9 +51,9 @@ Tworzymy strony, które **wyglądają profesjonalnie** i **działają szybko** �
 ## 👥 Zespół Exolyte
 
 <p align="center">
-  <img src="assets/fryze10.png" alt="Fryze10" style="border-radius:50%; margin:10px;">
-  <img src="assets/acarto.png" alt="Acarto" style="border-radius:50%; margin:10px;">
-  <img src="assets/cezary19.png" alt="Cezary19" style="border-radius:50%; margin:10px;">
+  <img src="assets/acarto.png" alt="Fryze10" style="border-radius:50%; margin:10px; width:60px">
+  <img src="assets/acarto.png" alt="Acarto" style="border-radius:50%; margin:10px; width:60px">
+  <img src="assets/cezary19.png" alt="Cezary19" style="border-radius:50%; margin:10px; width:60px">
 </p>
 
 ---
