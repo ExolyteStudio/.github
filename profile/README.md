@@ -1,78 +1,107 @@
-<h1 align="center">🌐 Exolyte - Tworzymy Niezwykłe Doświadczenia Digital</h1>
+<h1 align="center">👋 Hey, I'm <strong>Acarto</strong></h1>
 
-<p align="center">
-  <a href="https://exolyte.pl/order/?now" target="_blank">
-    <img src="https://img.shields.io/badge/Zamów_swoją_stronę_już_teraz-7B2FF7?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Zamów teraz">
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Aktywne-7B2FF7?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Wersja-1.0-F107A3?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Made_with-Exolyte-black?style=for-the-badge">
-</p>
+<a href="#">
+  <img src="https://img.shields.io/badge/Web%20Developer-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Game%20Developer-6F42C1?style=for-the-badge&logo=godot-engine&logoColor=white" />
+</a>
+<a href="https://github.com/ExolyteStudio" target="_blank">
+  <img src="https://img.shields.io/badge/Founder%20of%20Exolyte-111111?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<p align="center">
-  <img src="assets/baner.png" width="200" alt="Baner" />
-</p>
+<br>
 
----
+<a href="https://wakatime.com/@07475edb-b429-4203-91e4-e178f1498e28" target="_blank">
+  <img src="https://wakatime.com/badge/user/07475edb-b429-4203-91e4-e178f1498e28.svg?style=for-the-badge" alt="Total time coded since Sep 27 2025" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=acartok&style=for-the-badge&color=0e75b6&label=Profile+Views" alt="Profile Views" />
 
-## 🚀 O nas
-**Exolyte** to kreatywne studio webowe specjalizujące się w:  
-- projektowaniu nowoczesnych stron internetowych  
-- wdrażaniu responsywnych aplikacji webowych  
-- tworzeniu unikalnych identyfikacji wizualnych  
-
-Tworzymy strony, które **wyglądają profesjonalnie** i **działają szybko** ⚡
+</div>
 
 ---
 
-## 🧠 Technologie
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-</p>
+### 💻 About Me
+I'm a passionate developer creating:
+- 🌐 **Websites** that combine design and performance  
+- 🎮 **Games** made with **Godot Engine**  
+- 🤖 **Discord Bots** that make communities better  
+- 🧠 Always learning and building creative digital projects  
 
 ---
 
-## 📊 Statystyki Exolyte
-<p align="center">
-  <img src="https://img.shields.io/badge/Łączny_czas_kodowania-4500h-7B2FF7?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Stron_zrobionych-120+-F107A3?style=for-the-badge">
-</p>
+### 🧰 Tech Stack
+<div align="center">
+
+<a href="#">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-## 👥 Zespół Exolyte
-
-<p align="center">
-  <img src="assets/acarto.png" alt="Fryze10" style="border-radius:50%; margin:10px; width:60px">
-  <img src="assets/acarto.png" alt="Acarto" style="border-radius:50%; margin:10px; width:60px">
-  <img src="assets/cezary19.png" alt="Cezary19" style="border-radius:50%; margin:10px; width:60px">
-</p>
-
----
-
-## 🔗 Kontakt
-<p align="center">
-  <a href="https://facebook.com/exolyte" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-  </a>
-  <a href="https://discord.gg/example" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-  <a href="https://exolyte.pl" target="_blank">
-    <img src="https://img.shields.io/badge/Strona_Exolyte-7B2FF7?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
-</p>
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=acartok&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=acartok&layout=compact&theme=tokyonight&hide_border=true" height="165" /><br><br>
+  <img src="https://streak-stats.demolab.com?user=acartok&theme=tokyonight&hide_border=true" height="165" />
+</div>
 
 ---
 
+### 🚀 Projects & Focus
+- Building **modern web apps** with React + PHP  
+- Expanding the **Exolyte Studio** brand  
+- Developing **indie games** and **Discord bots**  
+
+---
+
+### 🌍 Connect With Me
+<div align="center">
+  
+<a href="https://acarto.pl" target="_blank">
+  <img src="https://img.shields.io/badge/acarto.pl-1E90FF?style=for-the-badge&logo=firefox&logoColor=white" />
+</a>
+<a href="https://exolyte.pl" target="_blank">
+  <img src="https://img.shields.io/badge/exolyte.pl-6A5ACD?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://discord.com/users/1264899470357696522" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="mailto:kontakt@acarto.pl">
+  <img src="https://img.shields.io/badge/kontakt@acarto.pl-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/ExolyteStudio" target="_blank">
+  <img src="https://img.shields.io/badge/Exolyte%20Studio-222222?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+### ✨ Quote I Follow
+> “Code is like art — it’s not just about working, it’s about *feeling* right.”
+
+---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Exolyte&color=7B2FF7&style=for-the-badge&label=Odwiedziny+profilu">
+  <sub>Made with ❤️ by <strong>Acarto</strong> | © 2025 <a href="https://exolyte.pl" target="_blank">Exolyte</a></sub>
 </p>
