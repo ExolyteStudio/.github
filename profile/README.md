@@ -1,4 +1,4 @@
-<h1 align="center">🌐 Exolyte - Tworzymy Wymarzone Strony Internetowe</h1>
+<h1 align="center">🌐 Exolyte - Tworzymy Niezwykłe Doświadczenia Digital</h1>
 
 <p align="center">
   <a href="https://exolyte.pl/order/?now" target="_blank">
